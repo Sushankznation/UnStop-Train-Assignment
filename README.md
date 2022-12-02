@@ -6,9 +6,13 @@
 # public
 public/
 ┗ index.html
+
 src/
+
 ┣ components/
+
 ┃ ┣ Form.css
+
 ┃ ┣ ShowCase.js
 ┃ ┗ ShowSeat.js
 ┣ App.css
